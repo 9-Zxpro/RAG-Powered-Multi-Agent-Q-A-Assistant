@@ -1,0 +1,85 @@
+Q: What is your return policy?
+A: You can return any item within 30 days of purchase with proof of receipt.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to over 50 countries including the US, UK, India, and Australia.
+
+Q: How can I contact customer support?
+A: You can email us at support@lumi-tech.com or call 1-800-LUMI-HELP.
+
+Q: What's the deal with returns?
+A: You can send back any item within a 30-day window from when you bought it, just make sure you have your receipt or proof of purchase.
+
+Q: How long do I have to return something?
+A: Our return period is 30 days from the original purchase date.
+
+Q: What do I need to have to make a return?
+A: To process a return, we'll need some kind of proof that you bought the item, like your receipt or order confirmation.
+
+Q: Can I return something without the original packaging?
+A: While it's preferred, contact our customer support to discuss returns without original packaging as it may depend on the item.
+
+Q: What's your support email address?
+A: You can reach our customer support team via email at support@lumi-tech.com. We aim to respond to all inquiries promptly.
+
+Q: Is there a phone number I can call for help?
+A: Yes, you can call our customer support line at 1-800-LUMI-HELP. Our representatives are available during business hours.
+
+Q: What are your customer support hours?
+A: Our customer support team is available Monday through Friday, from 9 AM to 6 PM in your local time zone (Greater Noida, Uttar Pradesh, India). For urgent issues outside these hours, please email us.
+
+Okay, here are more FAQ examples following your format, with each main question having at least three related questions and answers:
+
+Main Question: Product Features
+
+Q: What are the key features of the Lumi-Smart Home Hub?
+A: The Lumi-Smart Home Hub offers seamless control of all your smart devices, voice assistant integration, customizable automation routines, and real-time energy monitoring.
+
+Q: Can the Lumi-Smart Home Hub control Zigbee devices?
+A: Yes, the Lumi-Smart Home Hub is fully compatible with Zigbee, Z-Wave, and Wi-Fi enabled smart devices.
+
+Q: Does the Lumi-Smart Home Hub support voice control?
+A: Absolutely! The hub integrates with popular voice assistants like Alexa, Google Assistant, and Siri for hands-free control.
+
+Q: Can I set up custom automation routines with the Lumi-Smart Home Hub?
+A: Yes, our intuitive app allows you to create personalized automation routines based on schedules, triggers, and device states.
+
+Main Question: Order and Shipping
+
+Q: What are your shipping options?
+A: We offer standard, expedited, and priority shipping options. Delivery times vary depending on your location and the selected service.
+
+Q: How much does shipping cost?
+A: Shipping costs are calculated based on the weight of your order and your destination. You can see the exact shipping cost at checkout.
+
+Q: Can I track my order?
+A: Yes, once your order ships, you will receive a tracking number via email that you can use to monitor its progress.
+
+Q: What is your processing time for orders?
+A: We typically process orders within 1-2 business days before they are shipped out.
+
+Main Question: Account Management
+
+Q: How do I create an account?
+A: You can create an account by clicking the "Sign Up" button on our website and following the on-screen instructions.
+
+Q: What if I forget my password?
+A: If you forget your password, simply click the "Forgot Password" link on the login page and follow the steps to reset it.
+
+Q: How can I update my account information?
+A: You can update your account information, such as your address and payment details, by logging into your account on our website and navigating to the "Account Settings" section.
+
+Q: Can I delete my account?
+A: Yes, if you wish to delete your account, please contact our customer support team for assistance with this process
+
+Q: How do I sign myself up for an account?
+A: Just hit the "Sign Up" button on our website and follow the steps you see on the screen.
+
+Q: Uh oh, I can't remember my login!
+A: No worries! Just click the "Forgot Password" link on the login page, and we'll help you get a new one.
+
+Q: Where can I change my details, like my address?
+A: You can update your info, like your address and how you pay, by logging into your account on our website and going to "Account Settings."   
+
+Q: Can I just get rid of my account altogether?
+A: Yep, if you want to close your account, just get in touch with our customer support team, and they'll walk you through it.

@@ -1,0 +1,38 @@
+Product: SmartLamp 2.0
+Model: SL-200
+Power: 5W LED
+Connectivity: Wi-Fi 802.11 b/g/n, Bluetooth 5.0
+App Support: iOS 12+, Android 9+
+Voice Control: Compatible with Alexa, Google Assistant, and Siri
+Battery Backup: 4 hours (optional add-on)
+Warranty: 1 year limited warranty
+
+Product: SmartThermostat Basic
+Model: ST-B1
+Control: Touch Interface, App Control
+Connectivity: Wi-Fi 802.11 b/g/n
+App Support: iOS 11+, Android 8+
+Voice Control: Compatible with Alexa, Google Assistant
+Features: Learning Capabilities, Geofencing, Scheduling
+Power: 24V AC
+Warranty: 18 months limited warranty
+
+Product: SmartDoor Lock Bluetooth
+Model: SDL-B2
+Connectivity: Bluetooth 5.0
+App Support: iOS 13+, Android 10+
+Voice Control: Compatible with Alexa, Google Assistant (via hub)
+Features: Keyless Entry, Remote Unlock, Tamper Alarm, Auto-Lock
+Power: 4 x AA Batteries
+Warranty: 2 year limited warranty
+
+Product: SmartSecurity Camera Indoor
+Model: SC-I5
+Resolution: 1080p Full HD
+Field of View: 110 degrees
+Connectivity: Wi-Fi 802.11 b/g/n
+App Support: iOS 12+, Android 9+
+Voice Control: Compatible with Alexa, Google Assistant
+Features: Motion Detection, Night Vision, Two-Way Audio
+Storage: Cloud Storage (optional), MicroSD card slot (up to 128GB)
+Warranty: 1 year limited warranty
