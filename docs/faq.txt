@@ -28,24 +28,6 @@ A: Yes, you can call our customer support line at 1-800-LUMI-HELP. Our represent
 Q: What are your customer support hours?
 A: Our customer support team is available Monday through Friday, from 9 AM to 6 PM in your local time zone (Greater Noida, Uttar Pradesh, India). For urgent issues outside these hours, please email us.
 
-Okay, here are more FAQ examples following your format, with each main question having at least three related questions and answers:
-
-Main Question: Product Features
-
-Q: What are the key features of the Lumi-Smart Home Hub?
-A: The Lumi-Smart Home Hub offers seamless control of all your smart devices, voice assistant integration, customizable automation routines, and real-time energy monitoring.
-
-Q: Can the Lumi-Smart Home Hub control Zigbee devices?
-A: Yes, the Lumi-Smart Home Hub is fully compatible with Zigbee, Z-Wave, and Wi-Fi enabled smart devices.
-
-Q: Does the Lumi-Smart Home Hub support voice control?
-A: Absolutely! The hub integrates with popular voice assistants like Alexa, Google Assistant, and Siri for hands-free control.
-
-Q: Can I set up custom automation routines with the Lumi-Smart Home Hub?
-A: Yes, our intuitive app allows you to create personalized automation routines based on schedules, triggers, and device states.
-
-Main Question: Order and Shipping
-
 Q: What are your shipping options?
 A: We offer standard, expedited, and priority shipping options. Delivery times vary depending on your location and the selected service.
 
@@ -57,8 +39,6 @@ A: Yes, once your order ships, you will receive a tracking number via email that
 
 Q: What is your processing time for orders?
 A: We typically process orders within 1-2 business days before they are shipped out.
-
-Main Question: Account Management
 
 Q: How do I create an account?
 A: You can create an account by clicking the "Sign Up" button on our website and following the on-screen instructions.
