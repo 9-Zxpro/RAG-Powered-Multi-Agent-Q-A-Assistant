@@ -29,26 +29,26 @@ def create_vectorstore(docs):
     )
     return vectordb
 
-flan_pipe = pipeline("text2text-generation", model="google/flan-t5-base", max_new_tokens=256)
-llm = HuggingFacePipeline(pipeline=flan_pipe)
+# flan_pipe = pipeline("text2text-generation", model="google/flan-t5-base", max_new_tokens=256)
+# llm = HuggingFacePipeline(pipeline=flan_pipe)
 
-# try:
-#     hf_token = st.secrets["HUGGINGFACE_TOKEN"]
-# except KeyError:
-#     st.error("Hugging Face token not found in Streamlit Secrets. Please configure it.")
-#     st.stop()
+try:
+    hf_token = st.secrets["HUGGINGFACE_TOKEN"]
+except KeyError:
+    st.error("Hugging Face token not found in Streamlit Secrets. Please configure it.")
+    st.stop()
 
-# try:
-#     mistral_pipeline = pipeline(
-#         "text-generation",
-#         model="mistralai/Mistral-7B-v0.1",
-#         max_new_tokens=256,
-#         token=hf_token,
-#     )
-#     llm = HuggingFacePipeline(pipeline=mistral_pipeline)
-# except Exception as e:
-#     st.error(f"Error initializing Mistral model: {e}")
-#     st.stop()
+try:
+    mistral_pipeline = pipeline(
+        "text-generation",
+        model="mistralai/Mistral-7B-v0.1",
+        max_new_tokens=256,
+        token=hf_token,
+    )
+    llm = HuggingFacePipeline(pipeline=mistral_pipeline)
+except Exception as e:
+    st.error(f"Error initializing Mistral model: {e}")
+    st.stop()
 
 
 prompt = PromptTemplate.from_template("""
